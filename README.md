@@ -4,6 +4,8 @@
 
 This notebook demonstrates how to fine-tune DistilBERT for the Masked Language Modeling (MLM) task. The goal is to train the model to predict masked tokens in a sequence, which is a fundamental pre-training task for transformer-based language models. The notebook uses the IMDB dataset for training and evaluation, providing a practical example of how to adapt a pre-trained model for MLM.
 
+https://github.com/elkomy13/Fine-Tune-DistilBERT-For-Masked-Tasks/assets/97259226/c84e7b10-d1eb-4a53-9249-e4df3d42f5e5
+
 ## Key Features
 
 - **Model**: DistilBERT (distilbert-base-uncased), a lightweight and efficient version of BERT.
@@ -13,6 +15,7 @@ This notebook demonstrates how to fine-tune DistilBERT for the Masked Language M
   - Whole Word Masking (WWM) to mask entire words instead of subword tokens.
   - Dynamic masking during training for better generalization.
   - Perplexity evaluation to measure model performance.
+- **Deployment** : StreamLit
 
 ## Workflow
 
