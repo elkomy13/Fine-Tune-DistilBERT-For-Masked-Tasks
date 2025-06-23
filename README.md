@@ -4,7 +4,7 @@
 
 This notebook demonstrates how to fine-tune DistilBERT for the Masked Language Modeling (MLM) task. The goal is to train the model to predict masked tokens in a sequence, which is a fundamental pre-training task for transformer-based language models. The notebook uses the IMDB dataset for training and evaluation, providing a practical example of how to adapt a pre-trained model for MLM.
 
-![Video Demo](https://github.com/elkomy13/Fine-Tune-DistilBERT-For-Masked-Tasks/raw/main/demo.gif)
+![Video Demo](https://github.com/elkomy13/Fine-Tune-DistilBERT-For-Masked-Tasks/raw/main/mask.mp4)
 
 ## Key Features
 
